@@ -8,12 +8,8 @@
     "publish": {
       "ignoreChanges": [
         "projects/*"
-      ],
-      "allowBranch": [
-        "master",
-        "packages/*"
       ]
     }
   },
-  "version": "0.0.5"
+  "version": "0.0.6"
 }
