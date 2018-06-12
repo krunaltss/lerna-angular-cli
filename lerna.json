@@ -4,5 +4,12 @@
     "packages/*",
     "projects/*"
   ],
-  "version": "0.0.2"
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "projects/*"
+      ]
+    }
+  },
+  "version": "0.0.3"
 }
