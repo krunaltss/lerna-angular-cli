@@ -1,0 +1,21 @@
+{
+  "name": "tss-lerna-test-one",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/tss-lerna-test-one.umd.js",
+  "module": "fesm5/tss-lerna-test-one.js",
+  "es2015": "fesm2015/tss-lerna-test-one.js",
+  "esm5": "esm5/tss-lerna-test-one.js",
+  "esm2015": "esm2015/tss-lerna-test-one.js",
+  "fesm5": "fesm5/tss-lerna-test-one.js",
+  "fesm2015": "fesm2015/tss-lerna-test-one.js",
+  "typings": "tss-lerna-test-one.d.ts",
+  "metadata": "tss-lerna-test-one.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
